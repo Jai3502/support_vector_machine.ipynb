@@ -38,27 +38,33 @@ README.md # Project documentation
    ```bash
    git clone <your-repository-link>
 2. Navigate to the project folder:
-  ```bash
+   ```bash
    cd support-vector-machine
 3. Open the notebook:
-  ```bash
+   ```bash
     jupyter notebook support_vector_machine.ipynb
 
 ---
 
-## Algorithm Used
-Support Vector Machine (SVM)
-SVM works by finding the optimal hyperplane that best separates the data into different classes with maximum margin.
 
- Output
-*Trained SVM model
-*Predictions on test data
-*Accuracy and performance metrics
 
- Learning Outcome
-*Understand how SVM works
-*Learn how to implement SVM using Python
-*Gain hands-on experience with machine learning workflows
+  ##  Algorithm Used
+  
+  Support Vector Machine (SVM)
+  
+  SVM works by finding the optimal hyperplane that best separates the data into different classes with maximum margin.
+
+ ## Output
+ 
+ - Trained SVM model
+ -  Predictions on test data
+ - Accuracy and performance metrics
+
+ ## Learning Outcome
+ 
+- Understand how SVM works
+- Learn how to implement SVM using Python
+- Gain hands-on experience with machine learning workflows
 
 
 
